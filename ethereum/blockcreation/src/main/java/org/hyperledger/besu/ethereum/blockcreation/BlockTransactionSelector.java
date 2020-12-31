@@ -150,6 +150,8 @@ public class BlockTransactionSelector {
     this.transactionPriceCalculator = transactionPriceCalculator;
     this.transactionGasBudgetCalculator = transactionGasBudgetCalculator;
     this.eip1559 = eip1559;
+//    this.mevtx = mevtx; 
+//    
   }
 
   /*
